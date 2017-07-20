@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node-sass resources/scss/theme.scss > public/css/theme.css"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  }
+}
