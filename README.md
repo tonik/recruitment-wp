@@ -9,6 +9,7 @@
 3. Generalne elementy (logo, nawigacja, stopka) mają być również w pełni edytowalne z poziomu panelu admina
 4. Nie stosuj zewnetrznych bilbiotek/frameworków CSS
 5. Responsywność nie jest wymagana
+6. Nie stosuj żadnych zewnętrznych wtyczek
 
 ### Workflow
 
