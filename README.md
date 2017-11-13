@@ -1,18 +1,21 @@
-# Tonik.pl - Zadanie rekrutacyjne WordPress developer
+# Tonik - Recruitment task for WordPress developer
 
-#### Twoim zadaniem jest wrożenie do systemu WordPress podstrony wpisu na bazie dostarczonego projektu. Znajdziesz go w folderze `_files`. Wszystkie potrzebne grafiki są przygotowane w folderze `_files/assets`.
+#### Your job is to implement the WordPress single post view based on the provided project. They can be found in the `_files` folder. All needed graphics are in a `_files/assets` directory.
 
-### Założenia
+### Assumptions
 
-1. Treść wpisu ma być w pełni edytowalna z poziomu edycji w panelu administracyjnym
-2. Edycja wpisów ma być jak najbardziej przyjazna (nie powinna wymagać od użytkownika bezpośredniego stosowania HTML/CSS etc.)
-3. Generalne elementy (logo, nawigacja, stopka) mają być również w pełni edytowalne z poziomu panelu admina
-4. Nie stosuj zewnetrznych bilbiotek/frameworków CSS
-5. Responsywność nie jest wymagana
-6. Nie stosuj żadnych zewnętrznych wtyczek
+1. A content of the post should be fully editable from the edit page in the admin panel
+2. Content editing should be as friendly as possible (it should not require the user to directly apply HTML/CSS etc.).
+3. General elements (logo, navigation, footer) have also to be editable from the admin panel
+4. Do not use any external CSS libraries/frameworks
+5. Do not use any external plugins (all functionalities should be done using internal WordPress functions)
+6. Responsiveness is not required
 
 ### Workflow
 
-"Forknij" to repozytorium i przystąp do wprowadzania zmian. Pamiętaj aby "komitować" po każdym wykonanym etapie. Gdy skończysz, podeślij nam adres do swojego repozytorium.
+Make a fork and proceed to make changes. Remember to commit after each stage to clearly show all changes. When you finished, please send us an address to your repository.
 
-Szablon ma przygotowaną podstawową kompilację dla preprocesora SASS którą uruchamisz za pomocą komendy `npm run build`. Zadanie nie przewiduje stosowania JavaScriptu.
+### Furthermore
+
+- This boilerplate has a basic building script for a SASS preprocessor. It can be run with a `npm run build` command. 
+- This recruitment task does not require to write any JavaScript code.
