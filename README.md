@@ -1,6 +1,6 @@
 # Tonik - Recruitment task for WordPress developer
 
-#### Your job is to implement the WordPress single post view based on the provided project. They can be found in the `_files` folder. All needed graphics are in a `_files/assets` directory.
+> Your job is to implement the WordPress single post view based on the provided project. They can be found in the `_files` folder. All needed graphics are in a `_files/assets` directory.
 
 ### Assumptions
 
@@ -17,5 +17,5 @@ Make a fork and proceed to make changes. Remember to commit after each stage to 
 
 ### Furthermore
 
-- This boilerplate has a basic building script for a SASS preprocessor. It can be run with a `npm run build` command. 
-- This recruitment task does not require to write any JavaScript code.
+- This boilerplate has a basic building script for a SASS preprocessor. It can be run with a `npm run build` command
+- This recruitment task does not require to write any JavaScript code
